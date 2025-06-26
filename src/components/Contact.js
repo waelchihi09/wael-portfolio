@@ -89,7 +89,7 @@ const Contact = ({ language }) => {
       await new Promise(resolve => setTimeout(resolve, 2000));
       
       // Here you would typically send the form data to your backend or email service
-      console.log('Form submitted:', formData);
+      // console.log('Form submitted:', formData);
       
       setSubmitStatus('success');
       setFormData({ name: '', email: '', subject: '', message: '' });
@@ -125,7 +125,7 @@ const Contact = ({ language }) => {
     {
       icon: FaLinkedin,
       label: t.social.linkedin,
-      href: '#',
+      href: 'https://linkedin.com/in/waelchihi',
       color: '#0077B5'
     }
   ];

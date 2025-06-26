@@ -55,7 +55,7 @@ const Projects = ({ language }) => {
       technologies: ['React', 'Node.js', 'Express', 'MongoDB', 'Encryption'],
       category: 'fullstack',
       github: 'https://github.com/waelchihi09/secret-share',
-      demo: '#',
+      demo: 'https://github.com/waelchihi09/secret-share',
       featured: true
     },
     {
@@ -69,7 +69,7 @@ const Projects = ({ language }) => {
       technologies: ['Python', 'Wireshark', 'SIEM', 'IDS/IPS', 'Security Auditing'],
       category: 'cybersecurity',
       github: 'https://github.com/waelchihi09',
-      demo: '#',
+      demo: 'https://github.com/waelchihi09',
       featured: true
     },
     {
@@ -83,7 +83,7 @@ const Projects = ({ language }) => {
       technologies: ['Quality Control', 'Process Management', 'Compliance', 'Risk Assessment', 'Documentation'],
       category: 'quality',
       github: 'https://github.com/waelchihi09',
-      demo: '#',
+      demo: 'https://github.com/waelchihi09',
       featured: true
     },
     {
@@ -97,7 +97,7 @@ const Projects = ({ language }) => {
       technologies: ['Python', 'Wireshark', 'OWASP', 'Network Security', 'Vulnerability Assessment'],
       category: 'cybersecurity',
       github: 'https://github.com/waelchihi09',
-      demo: '#',
+      demo: 'https://github.com/waelchihi09',
       featured: false
     },
     {
@@ -111,7 +111,7 @@ const Projects = ({ language }) => {
       technologies: ['Python', 'Industrial Systems', 'Quality Metrics', 'Process Control', 'Monitoring'],
       category: 'quality',
       github: 'https://github.com/waelchihi09',
-      demo: '#',
+      demo: 'https://github.com/waelchihi09',
       featured: false
     },
     {
@@ -124,8 +124,8 @@ const Projects = ({ language }) => {
       image: '/api/placeholder/400/250',
       technologies: ['React', 'Framer Motion', 'CSS3', 'Responsive Design'],
       category: 'frontend',
-      github: 'https://github.com/waelchihi09',
-      demo: '#',
+      github: 'https://github.com/waelchihi09/wael-portfolio',
+      demo: 'https://wael-chihi-portfolio.vercel.app',
       featured: false
     }
   ];
