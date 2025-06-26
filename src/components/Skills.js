@@ -1,13 +1,11 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { 
-  FaReact, FaJs, FaPython, FaPhp, FaLinux, FaNodeJs, 
-  FaDatabase, FaShieldAlt, FaCode, FaServer, FaGitAlt, FaDocker 
+  FaReact, FaJs, FaPython, FaLinux, FaNodeJs, 
+  FaDatabase, FaShieldAlt, FaCode, FaServer
 } from 'react-icons/fa';
 import { 
-  SiExpress, SiMongodb, SiMysql, SiPostgresql, SiTailwindcss, 
-  SiBootstrap, SiNumpy, SiPandas, SiScikitlearn, SiTensorflow,
-  SiKubernetes, SiAmazonaws, SiFirebase, SiRedis
+  SiExpress, SiMongodb, SiMysql, SiBootstrap
 } from 'react-icons/si';
 import './Skills.css';
 

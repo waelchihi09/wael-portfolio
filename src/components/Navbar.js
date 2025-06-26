@@ -13,7 +13,6 @@ const Navbar = ({ language, setLanguage }) => {
       about: 'About',
       skills: 'Skills',
       projects: 'Projects',
-      experience: 'Experience',
       contact: 'Contact'
     },
     fr: {
@@ -21,7 +20,6 @@ const Navbar = ({ language, setLanguage }) => {
       about: 'À propos',
       skills: 'Compétences',
       projects: 'Projets',
-      experience: 'Expérience',
       contact: 'Contact'
     }
   };
@@ -41,7 +39,6 @@ const Navbar = ({ language, setLanguage }) => {
     { name: t.about, href: '#about' },
     { name: t.skills, href: '#skills' },
     { name: t.projects, href: '#projects' },
-    { name: t.experience, href: '#experience' },
     { name: t.contact, href: '#contact' }
   ];
 
